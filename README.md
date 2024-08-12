@@ -41,19 +41,18 @@ This account is required to access and manipulate database tables.
 Use the login credentials from the registration to log in.
 After successful login, you'll receive an authentication token.
 
-# Using the API
+#Using the API
 Endpoints
 JobTelemetry
-# GET/api/JobTelemetry:  Retrieve a list of all JobTelemetry data
-# POST/api/JobTe1emetry:  Create a new JobTelemetry
-# GET/api/products/{id}: gets specific JobTelemetry
-# PUT/api/JobTelemetry/{id}: Update product JobTelemetry
-# DELETE /api/JobTelemetry/{id}: Delete a JobTelemetry.
-# GE/api/JobTelemetry/savings : gets savings for JobTelemetry
+GET/api/JobTelemetry:  Retrieve a list of all JobTelemetry data
+POST/api/JobTe1emetry:  Create a new JobTelemetry
+GET/api/products/{id}: gets specific JobTelemetry
+PUT/api/JobTelemetry/{id}: Update product JobTelemetry
+DELETE /api/JobTelemetry/{id}: Delete a JobTelemetry.
+GET/api/JobTelemetry/savings : gets savings for JobTelemetry
 
 # Authentication
 Include the authentication token received upon login in the Authorization header for each request.
-
 Example: Authorization: Bearer <your-token-here>
 Example Workflow
 
