@@ -1,6 +1,9 @@
 # CMPG323-Project-2-42686784
 Welcome to my API Development project 2
 ###
+# Link to API
+https://apidevelopmentproject2.azurewebsites.net/index.html
+
 ![download](https://github.com/user-attachments/assets/9d63d326-0b09-4064-8e84-0266d52deb1d)
 
 ## About the Project:
@@ -69,5 +72,3 @@ The server hosting the database is also secure
 #resource group
 https://portal.azure.com/#@nwuac.onmicrosoft.com/resource/subscriptions/36901f75-831e-42af-8bc1-9e17fe6b0c49/resourceGroups/Project2_42686784/overview
 
-# Link to API
-https://apidevelopmentproject2.azurewebsites.net/index.html
