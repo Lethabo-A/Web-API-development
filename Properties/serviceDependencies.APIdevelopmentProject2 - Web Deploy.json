@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/APIdevelopmentProject2/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsConnStr_8A3E71D8C8",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/lethabo-server/databases/DatabaseOLA",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:ConnStr",
+      "dynamicId": null
+    }
+  }
+}
